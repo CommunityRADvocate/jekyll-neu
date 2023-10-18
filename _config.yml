@@ -14,7 +14,7 @@ baseurl: "/jekyll-neu"
 username: Remy
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Facilitator and Community Advocate | G{Code} Intro to Data Analytics
+typing_text: Facilitator and Community Advocate
 # email: Your E-Mail address for the email button.
 email: remydrain@thegcodehouse.com
 # For every social button you want to display, set your username or userid
