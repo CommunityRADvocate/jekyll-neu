@@ -11,26 +11,20 @@
 - name: Bash
   weight: 3
 
-- name: Scrum
+- name: RStudio
   weight: 3
 
-- name: Travis CI
-  weight: 1
+- name: Tableau
+  weight: 3
 
-- name: Jenkins
-  weight: 1
+- name: Jupyter
+  weight: 3
 
 - name: Chrome DevTools
-  weight: 2
+  weight: 3
 
 - name: npm
   weight: 2
 
-- name: gulp
-  weight: 4
-
 - name: VS Code
   weight: 3
-
-- name: Postman
-  weight: 4
